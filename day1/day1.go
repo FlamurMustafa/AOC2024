@@ -1,13 +1,12 @@
-package main
+package main 
 
 import "os"
 import "log"
 import "bufio"
 import "fmt"
 import "strconv"
-import "bytes"
+import "bytes" 
 import "sort"
-
 
 func abs(x int) int {
     if x > 0{
